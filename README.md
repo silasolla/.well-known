@@ -1,3 +1,3 @@
 # .well-known
 
-- keybase.txt : The proof for Keybase.
+- keybase.txt : Proof of Identity (Keybase)
